@@ -1,0 +1,594 @@
+fileFormatVersion: 2
+guid: f0298b30dfad65247be4b854b24d556e
+timeCreated: 1462733045
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: drunksheeet_0
+    21300002: drunksheeet_1
+    21300004: drunksheeet_2
+    21300006: drunksheeet_3
+    21300008: drunksheeet_4
+    21300010: drunksheeet_5
+    21300012: drunksheeet_6
+    21300014: drunksheeet_7
+    21300016: drunksheeet_8
+    21300018: drunksheeet_9
+    21300020: drunksheeet_10
+    21300022: drunksheeet_11
+    21300024: drunksheeet_12
+    21300026: drunksheeet_13
+    21300028: drunksheeet_14
+    21300030: drunksheeet_15
+    21300032: drunksheeet_16
+    21300034: drunksheeet_17
+    21300036: drunksheeet_18
+    21300038: drunksheeet_19
+    21300040: drunksheeet_20
+    21300042: drunksheeet_21
+    21300044: drunksheeet_22
+    21300046: drunksheeet_23
+    21300048: drunksheeet_24
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: drunksheeet_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 833
+        width: 116
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28, y: 95.5}
+        - {x: -58, y: 48.5}
+        - {x: -58, y: -34.5}
+        - {x: -20, y: -95.5}
+        - {x: -16, y: -95.5}
+        - {x: 0, y: -91.5}
+        - {x: 5, y: -84.5}
+        - {x: 18, y: -95.5}
+        - {x: 40, y: -95.5}
+        - {x: 58, y: -22.5}
+        - {x: 58, y: 86.5}
+        - {x: 46, y: 95.5}
+    - name: drunksheeet_1
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 834
+        width: 114
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 94}
+        - {x: -22, y: 77}
+        - {x: -22, y: 49}
+        - {x: -57, y: 7}
+        - {x: -57, y: -12}
+        - {x: -55, y: -16}
+        - {x: -17, y: -6}
+        - {x: -28, y: -75}
+        - {x: -27, y: -84}
+        - {x: -24, y: -89}
+        - {x: 6, y: -89}
+        - {x: 8, y: -84}
+        - {x: 8, y: -73}
+        - {x: 9, y: -72}
+        - {x: 10, y: -54}
+        - {x: 9, y: -70}
+        - {x: 9, y: -73}
+        - {x: 8, y: -74}
+        - {x: 8, y: -79}
+        - {x: 10, y: -91}
+        - {x: 12, y: -94}
+        - {x: 32, y: -94}
+        - {x: 57, y: -13}
+        - {x: 57, y: 42}
+        - {x: 38, y: 94}
+    - name: drunksheeet_2
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 829
+        width: 112
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42, y: 96.5}
+        - {x: -56, y: 37.5}
+        - {x: -56, y: -46.5}
+        - {x: -38, y: -96.5}
+        - {x: 56, y: -96.5}
+        - {x: 56, y: 60.5}
+        - {x: 41, y: 96.5}
+    - name: drunksheeet_3
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 832
+        width: 114
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18, y: -85}
+        - {x: 27, y: -95}
+        - {x: 44, y: -95}
+        - {x: 57, y: -51}
+        - {x: 57, y: 63}
+        - {x: 39, y: 95}
+        - {x: -29, y: 95}
+        - {x: -57, y: 56}
+        - {x: -57, y: -61}
+        - {x: -31, y: -95}
+        - {x: 14, y: -95}
+        - {x: 17, y: -90}
+        - {x: 16, y: -61}
+        - {x: 17, y: -78}
+    - name: drunksheeet_4
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 830
+        width: 116
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28, y: 97}
+        - {x: -58, y: 50}
+        - {x: -58, y: -25}
+        - {x: -2, y: -97}
+        - {x: 36, y: -97}
+        - {x: 58, y: -70}
+        - {x: 58, y: 89}
+        - {x: 47, y: 97}
+    - name: drunksheeet_5
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 834
+        width: 116
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 24, y: -86}
+        - {x: 25, y: -89}
+        - {x: 58, y: -93}
+        - {x: 58, y: 94}
+        - {x: -33, y: 94}
+        - {x: -58, y: 65}
+        - {x: -58, y: -75}
+        - {x: -43, y: -94}
+        - {x: 20, y: -94}
+        - {x: 22, y: -91}
+        - {x: 23, y: -71}
+        - {x: 23, y: -68}
+        - {x: 24, y: -75}
+    - name: drunksheeet_6
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 827
+        width: 112
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30, y: 97}
+        - {x: -56, y: 46}
+        - {x: -56, y: -16}
+        - {x: -48, y: -15}
+        - {x: -21, y: -3}
+        - {x: -3, y: -84}
+        - {x: 16, y: -97}
+        - {x: 39, y: -97}
+        - {x: 40, y: -96}
+        - {x: 56, y: -58}
+        - {x: 56, y: 97}
+    - name: drunksheeet_7
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 610
+        width: 114
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32, y: 95}
+        - {x: -57, y: 50}
+        - {x: -57, y: -9}
+        - {x: -10, y: -95}
+        - {x: -4, y: -95}
+        - {x: 11, y: -84}
+        - {x: 15, y: -75}
+        - {x: 15, y: -67}
+        - {x: 18, y: -92}
+        - {x: 20, y: -95}
+        - {x: 57, y: -95}
+        - {x: 57, y: 95}
+    - name: drunksheeet_8
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 603
+        width: 70
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 27, y: 98.5}
+        - {x: -32, y: 98.5}
+        - {x: -35, y: 97.5}
+        - {x: -35, y: -98.5}
+        - {x: 14, y: -98.5}
+        - {x: 15, y: -97.5}
+        - {x: 35, y: -52.5}
+        - {x: 35, y: 73.5}
+    - name: drunksheeet_9
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 603
+        width: 72
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -36, y: 98.5}
+        - {x: -36, y: -84.5}
+        - {x: -26, y: -98.5}
+        - {x: 36, y: -98.5}
+        - {x: 36, y: 98.5}
+    - name: drunksheeet_10
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 605
+        width: 181
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -90.5, y: 92}
+        - {x: -90.5, y: -77}
+        - {x: -21.5, y: -92}
+        - {x: 79.5, y: -92}
+        - {x: 90.5, y: -73}
+        - {x: 90.5, y: 19}
+        - {x: 6.5, y: 92}
+    - name: drunksheeet_11
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 606
+        width: 191
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10.5, y: 59}
+        - {x: -95.5, y: 59}
+        - {x: -95.5, y: -43}
+        - {x: -85.5, y: -59}
+        - {x: 94.5, y: -59}
+        - {x: 95.5, y: -58}
+        - {x: 95.5, y: 29}
+        - {x: 62.5, y: 54}
+    - name: drunksheeet_12
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 492
+        width: 206
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 43}
+        - {x: -99, y: 27}
+        - {x: -103, y: 20}
+        - {x: -103, y: -43}
+        - {x: 103, y: -43}
+        - {x: 103, y: 34}
+        - {x: 102, y: 43}
+    - name: drunksheeet_13
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 492
+        width: 206
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 101, y: -1}
+        - {x: 73, y: -6}
+        - {x: 94, y: 1}
+        - {x: 92, y: 33}
+        - {x: -103, y: 33}
+        - {x: -103, y: -22}
+        - {x: -80, y: -33}
+        - {x: 100, y: -33}
+        - {x: 103, y: -32}
+        - {x: 103, y: -6}
+    - name: drunksheeet_14
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 493
+        width: 206
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 32.5}
+        - {x: -97, y: 32.5}
+        - {x: -103, y: 21.5}
+        - {x: -103, y: -16.5}
+        - {x: -95, y: -23.5}
+        - {x: -81, y: -32.5}
+        - {x: 103, y: -32.5}
+        - {x: 103, y: 3.5}
+        - {x: 96, y: 16.5}
+    - name: drunksheeet_15
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 493
+        width: 206
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 32.5}
+        - {x: -98, y: 32.5}
+        - {x: -103, y: 27.5}
+        - {x: -103, y: -32.5}
+        - {x: 103, y: -32.5}
+        - {x: 103, y: 6.5}
+        - {x: 98, y: 19.5}
+    - name: drunksheeet_16
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 211
+        width: 191
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -45.5, y: 59}
+        - {x: -95.5, y: 48}
+        - {x: -95.5, y: -59}
+        - {x: 95.5, y: -59}
+        - {x: 95.5, y: 59}
+    - name: drunksheeet_17
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 210
+        width: 181
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25.5, y: 92}
+        - {x: -44.5, y: 33}
+        - {x: -44.5, y: 11}
+        - {x: -30.5, y: 5}
+        - {x: -87.5, y: -22}
+        - {x: -90.5, y: -25}
+        - {x: -90.5, y: -40}
+        - {x: -68.5, y: -51}
+        - {x: -61.5, y: -52}
+        - {x: -48.5, y: -40}
+        - {x: -69.5, y: -92}
+        - {x: 26.5, y: -92}
+        - {x: 90.5, y: -75}
+        - {x: 90.5, y: 72}
+        - {x: 72.5, y: 92}
+    - name: drunksheeet_18
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 208
+        width: 72
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 27, y: 99}
+        - {x: -19, y: 99}
+        - {x: -27, y: 84}
+        - {x: -36, y: 66}
+        - {x: -36, y: -56}
+        - {x: -13, y: -100}
+        - {x: 29, y: -100}
+        - {x: 36, y: -34}
+        - {x: 36, y: 96}
+    - name: drunksheeet_19
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 208
+        width: 70
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 99}
+        - {x: -28, y: 84}
+        - {x: -35, y: 68}
+        - {x: -35, y: -62}
+        - {x: -15, y: -100}
+        - {x: 28, y: -100}
+        - {x: 35, y: -16}
+        - {x: 35, y: 99}
+    - name: drunksheeet_20
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 215
+        width: 114
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: -92}
+        - {x: 57, y: -29}
+        - {x: 57, y: 57}
+        - {x: 17, y: 95}
+        - {x: -57, y: 95}
+        - {x: -57, y: -67}
+        - {x: -39, y: -95}
+        - {x: -21, y: -95}
+        - {x: -18, y: -91}
+        - {x: -16, y: -85}
+        - {x: -2, y: -91}
+    - name: drunksheeet_21
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 98
+        width: 206
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 24, y: 32.5}
+        - {x: -99, y: 11.5}
+        - {x: -103, y: 4.5}
+        - {x: -103, y: -32.5}
+        - {x: 84, y: -32.5}
+        - {x: 103, y: -19.5}
+        - {x: 103, y: 29.5}
+        - {x: 102, y: 32.5}
+    - name: drunksheeet_22
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 98
+        width: 206
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 32.5}
+        - {x: -99, y: 11.5}
+        - {x: -103, y: -3.5}
+        - {x: -103, y: -32.5}
+        - {x: 91, y: -32.5}
+        - {x: 103, y: -24.5}
+        - {x: 103, y: 25.5}
+        - {x: 99, y: 32.5}
+    - name: drunksheeet_23
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 97
+        width: 206
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -103, y: 33}
+        - {x: -103, y: -33}
+        - {x: 90, y: -33}
+        - {x: 103, y: -17}
+        - {x: 103, y: 33}
+    - name: drunksheeet_24
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 97
+        width: 206
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -103, y: 43}
+        - {x: -103, y: -43}
+        - {x: 103, y: -43}
+        - {x: 103, y: 35}
+        - {x: 47, y: 43}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

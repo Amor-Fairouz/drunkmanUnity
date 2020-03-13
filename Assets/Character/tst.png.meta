@@ -1,0 +1,4025 @@
+fileFormatVersion: 2
+guid: cee8e964f5c166e4b8ac409f76d06d3b
+timeCreated: 1460602505
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: tst_0
+    21300002: tst_1
+    21300004: tst_2
+    21300006: tst_3
+    21300008: tst_4
+    21300010: tst_5
+    21300012: tst_6
+    21300014: tst_7
+    21300016: tst_8
+    21300018: tst_9
+    21300020: tst_10
+    21300022: tst_11
+    21300024: tst_12
+    21300026: tst_14
+    21300028: tst_15
+    21300030: tst_16
+    21300032: tst_17
+    21300034: tst_18
+    21300036: tst_19
+    21300038: tst_20
+    21300040: tst_21
+    21300042: tst_22
+    21300044: tst_23
+    21300046: tst_25
+    21300048: tst_26
+    21300050: tst_28
+    21300052: tst_29
+    21300054: tst_30
+    21300056: tst_31
+    21300058: tst_32
+    21300060: tst_33
+    21300062: tst_34
+    21300064: tst_35
+    21300066: tst_36
+    21300068: tst_37
+    21300070: tst_38
+    21300072: tst_39
+    21300074: tst_42
+    21300076: tst_43
+    21300078: tst_44
+    21300080: tst_45
+    21300082: tst_46
+    21300084: tst_47
+    21300086: tst_48
+    21300088: tst_49
+    21300090: tst_50
+    21300092: tst_51
+    21300094: tst_53
+    21300096: tst_54
+    21300098: tst_56
+    21300100: tst_57
+    21300102: tst_58
+    21300104: tst_59
+    21300106: tst_60
+    21300108: tst_61
+    21300110: tst_62
+    21300112: tst_63
+    21300114: tst_64
+    21300116: tst_65
+    21300118: tst_67
+    21300120: tst_68
+    21300122: tst_69
+    21300124: tst_71
+    21300126: tst_72
+    21300128: tst_73
+    21300130: tst_74
+    21300132: tst_75
+    21300134: tst_76
+    21300136: tst_77
+    21300138: tst_78
+    21300140: tst_79
+    21300142: tst_81
+    21300144: tst_82
+    21300146: tst_83
+    21300148: tst_84
+    21300150: tst_86
+    21300152: tst_87
+    21300154: tst_88
+    21300156: tst_89
+    21300158: tst_90
+    21300160: tst_91
+    21300162: tst_92
+    21300164: tst_93
+    21300166: tst_94
+    21300168: tst_95
+    21300170: tst_97
+    21300172: tst_98
+    21300174: tst_100
+    21300176: tst_101
+    21300178: tst_102
+    21300180: tst_103
+    21300182: tst_104
+    21300184: tst_105
+    21300186: tst_106
+    21300188: tst_107
+    21300190: tst_108
+    21300192: tst_109
+    21300194: tst_110
+    21300196: tst_111
+    21300198: tst_112
+    21300200: tst_113
+    21300202: tst_115
+    21300204: tst_116
+    21300206: tst_117
+    21300208: tst_118
+    21300210: tst_119
+    21300212: tst_120
+    21300214: tst_121
+    21300216: tst_122
+    21300218: tst_123
+    21300220: tst_124
+    21300222: tst_125
+    21300224: tst_127
+    21300226: tst_128
+    21300228: tst_129
+    21300230: tst_131
+    21300232: tst_132
+    21300234: tst_133
+    21300236: tst_134
+    21300238: tst_135
+    21300240: tst_136
+    21300242: tst_137
+    21300244: tst_139
+    21300246: tst_140
+    21300248: tst_141
+    21300250: tst_142
+    21300252: tst_143
+    21300254: tst_145
+    21300256: tst_147
+    21300258: tst_148
+    21300260: tst_149
+    21300262: tst_150
+    21300264: tst_151
+    21300266: tst_152
+    21300268: tst_153
+    21300270: tst_154
+    21300272: tst_155
+    21300274: tst_156
+    21300276: tst_158
+    21300278: tst_159
+    21300280: tst_160
+    21300282: tst_161
+    21300284: tst_163
+    21300286: tst_164
+    21300288: tst_165
+    21300290: tst_166
+    21300292: tst_167
+    21300294: tst_168
+    21300296: tst_169
+    21300298: tst_171
+    21300300: tst_172
+    21300302: tst_174
+    21300304: tst_175
+    21300306: tst_176
+    21300308: tst_180
+    21300310: tst_182
+    21300312: tst_185
+    21300314: tst_186
+    21300316: tst_187
+    21300318: tst_188
+    21300320: tst_189
+    21300322: tst_190
+    21300324: tst_191
+    21300326: tst_192
+    21300328: tst_193
+    21300330: tst_195
+    21300332: tst_196
+    21300334: tst_197
+    21300336: tst_198
+    21300338: tst_199
+    21300340: tst_202
+    21300342: tst_205
+    21300344: tst_207
+    21300346: tst_209
+    21300348: tst_212
+    21300350: tst_213
+    21300352: tst_216
+    21300354: tst_217
+    21300356: tst_218
+    21300358: tst_219
+    21300360: tst_221
+    21300362: tst_223
+    21300364: tst_224
+    21300366: tst_225
+    21300368: tst_226
+    21300370: tst_227
+    21300372: tst_229
+    21300374: tst_230
+    21300376: tst_231
+    21300378: tst_232
+    21300380: tst_233
+    21300382: tst_234
+    21300384: tst_235
+    21300386: tst_236
+    21300388: tst_237
+    21300390: tst_238
+    21300392: tst_239
+    21300394: tst_240
+    21300396: tst_241
+    21300398: tst_242
+    21300400: tst_243
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: tst_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3830
+        width: 111
+        height: 266
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 66.5}
+        - {x: -28, y: 63.5}
+        - {x: -28, y: -66.5}
+        - {x: 14, y: -66.5}
+        - {x: 28, y: 10.5}
+        - {x: 28, y: 63.5}
+        - {x: 14, y: 66.5}
+    - name: tst_1
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 3829
+        width: 105
+        height: 267
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26, y: 67.5}
+        - {x: -26, y: -19.5}
+        - {x: -23, y: -65.5}
+        - {x: -21, y: -66.5}
+        - {x: 22, y: -66.5}
+        - {x: 27, y: -45.5}
+        - {x: 27, y: 67.5}
+    - name: tst_2
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 3830
+        width: 112
+        height: 264
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 66}
+        - {x: -28, y: 55}
+        - {x: -28, y: -66}
+        - {x: 22, y: -66}
+        - {x: 28, y: -5}
+        - {x: 28, y: 66}
+    - name: tst_3
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 3833
+        width: 109
+        height: 263
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27.5, y: 66.5}
+        - {x: -27.5, y: -65.5}
+        - {x: 10.5, y: -65.5}
+        - {x: 27.5, y: 10.5}
+        - {x: 27.5, y: 66.5}
+    - name: tst_4
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 3833
+        width: 105
+        height: 263
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 66.5}
+        - {x: -26, y: 55.5}
+        - {x: -26, y: -65.5}
+        - {x: 15, y: -65.5}
+        - {x: 27, y: -30.5}
+        - {x: 27, y: 66.5}
+    - name: tst_5
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 3836
+        width: 109
+        height: 260
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: 65}
+        - {x: -27, y: -65}
+        - {x: 11, y: -65}
+        - {x: 28, y: 7}
+        - {x: 28, y: 49}
+        - {x: 23, y: 65}
+      - - {x: 25, y: -65}
+        - {x: 28, y: -65}
+        - {x: 28, y: -55}
+        - {x: 25, y: -56}
+    - name: tst_6
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 3835
+        width: 111
+        height: 259
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 28.5, y: 61.5}
+        - {x: 19.5, y: 65.5}
+        - {x: -16.5, y: 65.5}
+        - {x: -27.5, y: 52.5}
+        - {x: -27.5, y: -64.5}
+        - {x: 8.5, y: -64.5}
+        - {x: 10.5, y: -56.5}
+        - {x: 28.5, y: 20.5}
+      - - {x: 25.5, y: -63.5}
+        - {x: 26.5, y: -64.5}
+        - {x: 28.5, y: -64.5}
+        - {x: 28.5, y: -53.5}
+        - {x: 25.5, y: -54.5}
+    - name: tst_7
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 3837
+        width: 100
+        height: 259
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 65.5}
+        - {x: -25, y: 62.5}
+        - {x: -25, y: -64.5}
+        - {x: 11, y: -64.5}
+        - {x: 26, y: 14.5}
+        - {x: 26, y: 64.5}
+        - {x: 22, y: 65.5}
+    - name: tst_8
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 3837
+        width: 108
+        height: 258
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: 65.5}
+        - {x: -27, y: -64.5}
+        - {x: 8, y: -64.5}
+        - {x: 27, y: 4.5}
+        - {x: 27, y: 57.5}
+        - {x: 25, y: 65.5}
+      - - {x: 24, y: -23.5}
+        - {x: 26, y: -25.5}
+        - {x: 27, y: -25.5}
+        - {x: 27, y: -16.5}
+        - {x: 24, y: -17.5}
+    - name: tst_9
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 3833
+        width: 109
+        height: 263
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.5, y: 66.5}
+        - {x: -27.5, y: 53.5}
+        - {x: -27.5, y: -65.5}
+        - {x: 12.5, y: -65.5}
+        - {x: 15.5, y: -52.5}
+        - {x: 27.5, y: -5.5}
+        - {x: 27.5, y: 66.5}
+    - name: tst_10
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 3835
+        width: 107
+        height: 261
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26.5, y: 66}
+        - {x: -26.5, y: -65}
+        - {x: 10.5, y: -65}
+        - {x: 27.5, y: 13}
+        - {x: 27.5, y: 66}
+    - name: tst_11
+      rect:
+        serializedVersion: 2
+        x: 1094
+        y: 3835
+        width: 109
+        height: 261
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27.5, y: 66}
+        - {x: -27.5, y: -65}
+        - {x: 13.5, y: -65}
+        - {x: 27.5, y: 6}
+        - {x: 27.5, y: 62}
+        - {x: 26.5, y: 66}
+      - - {x: 24.5, y: -63}
+        - {x: 26.5, y: -64}
+        - {x: 27.5, y: -64}
+        - {x: 27.5, y: -54}
+        - {x: 24.5, y: -55}
+    - name: tst_12
+      rect:
+        serializedVersion: 2
+        x: 1201
+        y: 3835
+        width: 113
+        height: 261
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 29, y: 66}
+        - {x: -28, y: 66}
+        - {x: -28, y: -65}
+        - {x: 13, y: -65}
+        - {x: 20, y: 5}
+        - {x: 29, y: 25}
+    - name: tst_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3563
+        width: 111
+        height: 268
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28, y: 68}
+        - {x: -28, y: -67}
+        - {x: 12, y: -67}
+        - {x: 28, y: 19}
+        - {x: 28, y: 66}
+        - {x: 20, y: 68}
+    - name: tst_15
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 3564
+        width: 113
+        height: 264
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.5, y: 66}
+        - {x: -28.5, y: 50}
+        - {x: -28.5, y: -66}
+        - {x: 12.5, y: -66}
+        - {x: 28.5, y: 2}
+        - {x: 28.5, y: 66}
+    - name: tst_16
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 3565
+        width: 108
+        height: 263
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: 66.5}
+        - {x: -27, y: -65.5}
+        - {x: 12, y: -65.5}
+        - {x: 28, y: -4.5}
+        - {x: 28, y: 61.5}
+        - {x: 26, y: 66.5}
+    - name: tst_17
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 3566
+        width: 106
+        height: 267
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26.5, y: 67}
+        - {x: -26.5, y: -67}
+        - {x: 16.5, y: -67}
+        - {x: 27.5, y: -20}
+        - {x: 27.5, y: 58}
+        - {x: 21.5, y: 67}
+    - name: tst_18
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 3568
+        width: 104
+        height: 265
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26, y: 66.5}
+        - {x: -26, y: -66.5}
+        - {x: 16, y: -66.5}
+        - {x: 26, y: -31.5}
+        - {x: 26, y: 63.5}
+        - {x: 24, y: 66.5}
+    - name: tst_19
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 3569
+        width: 109
+        height: 264
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27.5, y: 67}
+        - {x: -27.5, y: -66}
+        - {x: 24.5, y: -66}
+        - {x: 27.5, y: -34}
+        - {x: 27.5, y: 67}
+    - name: tst_20
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 3569
+        width: 114
+        height: 267
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.5, y: 67.5}
+        - {x: -27.5, y: 51.5}
+        - {x: -27.5, y: -66.5}
+        - {x: 13.5, y: -66.5}
+        - {x: 29.5, y: -10.5}
+        - {x: 29.5, y: 66.5}
+        - {x: 21.5, y: 67.5}
+      - - {x: -27.5, y: 48.5}
+        - {x: -28.5, y: 48.5}
+        - {x: -28.5, y: 30.5}
+        - {x: -25.5, y: 31.5}
+        - {x: -24.5, y: 33.5}
+        - {x: -24.5, y: 47.5}
+    - name: tst_21
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 3570
+        width: 107
+        height: 264
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 66}
+        - {x: -27, y: 57}
+        - {x: -27, y: -65}
+        - {x: -26, y: -66}
+        - {x: 15, y: -66}
+        - {x: 27, y: 3}
+        - {x: 27, y: 66}
+    - name: tst_22
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 3570
+        width: 114
+        height: 263
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: 66}
+        - {x: -20.5, y: 61}
+        - {x: -28.5, y: 46}
+        - {x: -28.5, y: -66}
+        - {x: 16.5, y: -66}
+        - {x: 28.5, y: 1}
+        - {x: 28.5, y: 66}
+    - name: tst_23
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 3570
+        width: 105
+        height: 265
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25, y: 60.5}
+        - {x: 13, y: 66.5}
+        - {x: -26, y: 66.5}
+        - {x: -26, y: -66.5}
+        - {x: 12, y: -66.5}
+        - {x: 27, y: 17.5}
+        - {x: 27, y: 56.5}
+    - name: tst_25
+      rect:
+        serializedVersion: 2
+        x: 1094
+        y: 3571
+        width: 108
+        height: 264
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25, y: 65}
+        - {x: 19, y: 67}
+        - {x: -25, y: 67}
+        - {x: -24, y: 64}
+        - {x: -27, y: 50}
+        - {x: -27, y: -66}
+        - {x: 14, y: -66}
+        - {x: 14, y: -57}
+        - {x: 27, y: 11}
+        - {x: 27, y: 54}
+    - name: tst_26
+      rect:
+        serializedVersion: 2
+        x: 1201
+        y: 3575
+        width: 113
+        height: 260
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 66}
+        - {x: -28, y: 53}
+        - {x: -28, y: -65}
+        - {x: 19, y: -65}
+        - {x: 29, y: -9}
+        - {x: 29, y: 66}
+    - name: tst_28
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 3301
+        width: 110
+        height: 262
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26.5, y: 66.5}
+        - {x: -27.5, y: 63.5}
+        - {x: -27.5, y: -64.5}
+        - {x: -26.5, y: -65.5}
+        - {x: 12.5, y: -65.5}
+        - {x: 28.5, y: 10.5}
+        - {x: 28.5, y: 65.5}
+        - {x: 23.5, y: 66.5}
+    - name: tst_29
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 3303
+        width: 112
+        height: 260
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 66}
+        - {x: -28, y: 52}
+        - {x: -28, y: -65}
+        - {x: 9, y: -65}
+        - {x: 10, y: -58}
+        - {x: 28, y: 6}
+        - {x: 28, y: 66}
+      - - {x: 25, y: -65}
+        - {x: 28, y: -65}
+        - {x: 28, y: -55}
+        - {x: 25, y: -56}
+    - name: tst_30
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 3305
+        width: 106
+        height: 260
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 21.5, y: 66}
+        - {x: -21.5, y: 66}
+        - {x: -26.5, y: 65}
+        - {x: -26.5, y: -65}
+        - {x: 9.5, y: -65}
+        - {x: 16.5, y: -14}
+        - {x: 26.5, y: 13}
+        - {x: 26.5, y: 52}
+    - name: tst_31
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 3305
+        width: 105
+        height: 262
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 66.5}
+        - {x: -26, y: 58.5}
+        - {x: -26, y: -65.5}
+        - {x: 12, y: -65.5}
+        - {x: 27, y: -36.5}
+        - {x: 27, y: 66.5}
+    - name: tst_32
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 3306
+        width: 105
+        height: 263
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 66}
+        - {x: -26, y: 59}
+        - {x: -26, y: -66}
+        - {x: 18, y: -66}
+        - {x: 27, y: -13}
+        - {x: 27, y: 66}
+    - name: tst_33
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 3306
+        width: 110
+        height: 262
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27.5, y: 65.5}
+        - {x: -27.5, y: -65.5}
+        - {x: 14.5, y: -65.5}
+        - {x: 28.5, y: 13.5}
+        - {x: 28.5, y: 65.5}
+    - name: tst_34
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 3307
+        width: 109
+        height: 263
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26.5, y: 66.5}
+        - {x: -27.5, y: 59.5}
+        - {x: -27.5, y: -65.5}
+        - {x: 15.5, y: -65.5}
+        - {x: 27.5, y: -22.5}
+        - {x: 27.5, y: 59.5}
+        - {x: 23.5, y: 66.5}
+    - name: tst_35
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 3309
+        width: 112
+        height: 261
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 66}
+        - {x: -28, y: 51}
+        - {x: -28, y: -24}
+        - {x: -22, y: -29}
+        - {x: -14, y: -29}
+        - {x: -14, y: -35}
+        - {x: -13, y: -44}
+        - {x: -23, y: -51}
+        - {x: -28, y: -55}
+        - {x: -28, y: -63}
+        - {x: -27, y: -65}
+        - {x: 14, y: -65}
+        - {x: 29, y: 3}
+        - {x: 29, y: 66}
+      - - {x: -28, y: 33}
+        - {x: -25, y: 34}
+        - {x: -25, y: 39}
+        - {x: -27, y: 41}
+        - {x: -28, y: 41}
+    - name: tst_36
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 3309
+        width: 113
+        height: 262
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25.5, y: 66.5}
+        - {x: -28.5, y: 57.5}
+        - {x: -28.5, y: -60.5}
+        - {x: -27.5, y: -64.5}
+        - {x: -26.5, y: -65.5}
+        - {x: 15.5, y: -65.5}
+        - {x: 27.5, y: -17.5}
+        - {x: 27.5, y: 66.5}
+      - - {x: 24.5, y: -21.5}
+        - {x: 27.5, y: -25.5}
+        - {x: 28.5, y: -25.5}
+        - {x: 28.5, y: -14.5}
+        - {x: 25.5, y: -15.5}
+    - name: tst_37
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 3310
+        width: 111
+        height: 260
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28, y: 65}
+        - {x: -28, y: -65}
+        - {x: 11, y: -65}
+        - {x: 12, y: -53}
+        - {x: 28, y: 11}
+        - {x: 28, y: 65}
+    - name: tst_38
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 3309
+        width: 103
+        height: 263
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 26, y: 66.5}
+        - {x: -23, y: 66.5}
+        - {x: -26, y: 59.5}
+        - {x: -26, y: -65.5}
+        - {x: 14, y: -65.5}
+        - {x: 14, y: -56.5}
+        - {x: 25, y: 4.5}
+        - {x: 26, y: 12.5}
+    - name: tst_39
+      rect:
+        serializedVersion: 2
+        x: 1201
+        y: 3310
+        width: 116
+        height: 264
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 66}
+        - {x: -29, y: 62}
+        - {x: -29, y: -65}
+        - {x: 10, y: -65}
+        - {x: 28, y: 16}
+        - {x: 28, y: 63}
+        - {x: 27, y: 66}
+    - name: tst_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3031
+        width: 111
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 26, y: 63.5}
+        - {x: 11, y: 68.5}
+        - {x: -27, y: 68.5}
+        - {x: -28, y: 61.5}
+        - {x: -28, y: -65.5}
+        - {x: -27, y: -67.5}
+        - {x: 10, y: -67.5}
+        - {x: 12, y: -52.5}
+        - {x: 28, y: 16.5}
+        - {x: 28, y: 54.5}
+    - name: tst_43
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 3035
+        width: 114
+        height: 266
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.5, y: 67.5}
+        - {x: -28.5, y: 52.5}
+        - {x: -28.5, y: -66.5}
+        - {x: 12.5, y: -66.5}
+        - {x: 29.5, y: 3.5}
+        - {x: 29.5, y: 58.5}
+        - {x: 27.5, y: 67.5}
+      - - {x: 25.5, y: -56.5}
+        - {x: 25.5, y: -65.5}
+        - {x: 28.5, y: -66.5}
+        - {x: 29.5, y: -66.5}
+        - {x: 29.5, y: -53.5}
+        - {x: 26.5, y: -54.5}
+    - name: tst_44
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 3036
+        width: 103
+        height: 267
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25.5, y: 67}
+        - {x: -25.5, y: -67}
+        - {x: 18.5, y: -67}
+        - {x: 26.5, y: 6}
+        - {x: 26.5, y: 67}
+    - name: tst_45
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 3038
+        width: 102
+        height: 266
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: 66.5}
+        - {x: -22.5, y: 66.5}
+        - {x: -25.5, y: 57.5}
+        - {x: -25.5, y: -65.5}
+        - {x: -23.5, y: -66.5}
+        - {x: 10.5, y: -66.5}
+        - {x: 13.5, y: -63.5}
+        - {x: 22.5, y: -41.5}
+        - {x: 25.5, y: -15.5}
+    - name: tst_46
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 3039
+        width: 112
+        height: 266
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28, y: 67.5}
+        - {x: -28, y: -66.5}
+        - {x: 13, y: -66.5}
+        - {x: 17, y: -53.5}
+        - {x: 28, y: 9.5}
+        - {x: 28, y: 67.5}
+      - - {x: 25, y: -55.5}
+        - {x: 25, y: -62.5}
+        - {x: 28, y: -65.5}
+        - {x: 29, y: -65.5}
+        - {x: 29, y: -52.5}
+        - {x: 28, y: -52.5}
+    - name: tst_47
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 3042
+        width: 107
+        height: 262
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: 65.5}
+        - {x: -27, y: -65.5}
+        - {x: 13, y: -65.5}
+        - {x: 27, y: -26.5}
+        - {x: 27, y: 65.5}
+    - name: tst_48
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 3048
+        width: 109
+        height: 260
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: 65}
+        - {x: -27, y: -65}
+        - {x: 11, y: -65}
+        - {x: 28, y: 22}
+        - {x: 28, y: 65}
+    - name: tst_49
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 3048
+        width: 115
+        height: 260
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.5, y: 65}
+        - {x: -28.5, y: -65}
+        - {x: 15.5, y: -65}
+        - {x: 29.5, y: -1}
+        - {x: 29.5, y: 65}
+      - - {x: -28.5, y: 30}
+        - {x: -25.5, y: 31}
+        - {x: -25.5, y: 36}
+        - {x: -27.5, y: 38}
+        - {x: -28.5, y: 38}
+    - name: tst_50
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 3049
+        width: 108
+        height: 261
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 66}
+        - {x: -27, y: 62}
+        - {x: -27, y: -65}
+        - {x: 12, y: -65}
+        - {x: 22, y: -54}
+        - {x: 27, y: -18}
+        - {x: 27, y: 66}
+    - name: tst_51
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 3048
+        width: 109
+        height: 262
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 65.5}
+        - {x: -27, y: 51.5}
+        - {x: -27, y: -65.5}
+        - {x: 11, y: -65.5}
+        - {x: 28, y: 9.5}
+        - {x: 28, y: 58.5}
+        - {x: 23, y: 65.5}
+    - name: tst_53
+      rect:
+        serializedVersion: 2
+        x: 1093
+        y: 3048
+        width: 107
+        height: 261
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 27.5, y: 51.5}
+        - {x: 20.5, y: 65.5}
+        - {x: -26.5, y: 65.5}
+        - {x: -26.5, y: -65.5}
+        - {x: 12.5, y: -65.5}
+        - {x: 13.5, y: -58.5}
+        - {x: 12.5, y: -43.5}
+        - {x: 27.5, y: 21.5}
+    - name: tst_54
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 3050
+        width: 118
+        height: 260
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.5, y: 65}
+        - {x: -29.5, y: 52}
+        - {x: -29.5, y: -65}
+        - {x: 8.5, y: -65}
+        - {x: 27.5, y: 6}
+        - {x: 27.5, y: 55}
+        - {x: 24.5, y: 65}
+    - name: tst_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2764
+        width: 100
+        height: 268
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 67}
+        - {x: -25, y: 59}
+        - {x: -25, y: -67}
+        - {x: 17, y: -67}
+        - {x: 25, y: -12}
+        - {x: 25, y: 67}
+    - name: tst_57
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 2768
+        width: 121
+        height: 267
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.5, y: 67}
+        - {x: -26.5, y: 66}
+        - {x: -26.5, y: -63}
+        - {x: -25.5, y: -67}
+        - {x: 18.5, y: -67}
+        - {x: 30.5, y: -40}
+        - {x: 30.5, y: 67}
+      - - {x: -30.5, y: 53}
+        - {x: -30.5, y: 27}
+        - {x: -28.5, y: 27}
+        - {x: -23.5, y: 29}
+        - {x: -23.5, y: 43}
+        - {x: -26.5, y: 53}
+    - name: tst_58
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 2769
+        width: 110
+        height: 267
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.5, y: 67.5}
+        - {x: -27.5, y: 61.5}
+        - {x: -27.5, y: -66.5}
+        - {x: 13.5, y: -66.5}
+        - {x: 28.5, y: -6.5}
+        - {x: 28.5, y: 62.5}
+        - {x: 26.5, y: 67.5}
+    - name: tst_59
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 2775
+        width: 100
+        height: 261
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 66}
+        - {x: -25, y: 62}
+        - {x: -25, y: -65}
+        - {x: 22, y: -65}
+        - {x: 25, y: -29}
+        - {x: 25, y: 66}
+    - name: tst_60
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 2777
+        width: 111
+        height: 260
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 66}
+        - {x: -26, y: 63}
+        - {x: -28, y: 58}
+        - {x: -28, y: -65}
+        - {x: 16, y: -65}
+        - {x: 28, y: -53}
+        - {x: 28, y: 66}
+      - - {x: 25, y: -61}
+        - {x: 27, y: -63}
+        - {x: 28, y: -63}
+        - {x: 28, y: -52}
+        - {x: 25, y: -53}
+    - name: tst_61
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 2779
+        width: 110
+        height: 264
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.5, y: 67}
+        - {x: -27.5, y: 57}
+        - {x: -27.5, y: -66}
+        - {x: 16.5, y: -66}
+        - {x: 28.5, y: -43}
+        - {x: 28.5, y: 65}
+        - {x: 18.5, y: 67}
+    - name: tst_62
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 2781
+        width: 111
+        height: 263
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27.5, y: 66.5}
+        - {x: -27.5, y: -65.5}
+        - {x: 28.5, y: -65.5}
+        - {x: 28.5, y: 66.5}
+    - name: tst_63
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 2781
+        width: 108
+        height: 266
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: 67.5}
+        - {x: -27, y: -66.5}
+        - {x: 17, y: -66.5}
+        - {x: 27, y: 8.5}
+        - {x: 27, y: 67.5}
+    - name: tst_64
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 2783
+        width: 111
+        height: 266
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25, y: 64.5}
+        - {x: 15, y: 67.5}
+        - {x: -26, y: 67.5}
+        - {x: -28, y: 55.5}
+        - {x: -28, y: -66.5}
+        - {x: 12, y: -66.5}
+        - {x: 14, y: -54.5}
+        - {x: 28, y: 13.5}
+        - {x: 28, y: 52.5}
+    - name: tst_65
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 2784
+        width: 109
+        height: 264
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 21, y: 66}
+        - {x: -19, y: 66}
+        - {x: -23, y: 61}
+        - {x: -27, y: 43}
+        - {x: -27, y: -66}
+        - {x: 15, y: -66}
+        - {x: 28, y: -2}
+        - {x: 28, y: 65}
+    - name: tst_67
+      rect:
+        serializedVersion: 2
+        x: 1093
+        y: 2788
+        width: 105
+        height: 261
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26, y: 65.5}
+        - {x: -26, y: -65.5}
+        - {x: 16, y: -65.5}
+        - {x: 27, y: -19.5}
+        - {x: 27, y: 65.5}
+    - name: tst_68
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 2788
+        width: 108
+        height: 261
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 21, y: 65.5}
+        - {x: -19, y: 65.5}
+        - {x: -27, y: 53.5}
+        - {x: -27, y: -65.5}
+        - {x: 9, y: -65.5}
+        - {x: 10, y: -64.5}
+        - {x: 27, y: 9.5}
+        - {x: 27, y: 63.5}
+    - name: tst_69
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 2787
+        width: 105
+        height: 263
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26.5, y: 66.5}
+        - {x: -26.5, y: -65.5}
+        - {x: 12.5, y: -65.5}
+        - {x: 26.5, y: 3.5}
+        - {x: 26.5, y: 66.5}
+    - name: tst_71
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2499
+        width: 111
+        height: 266
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 24, y: 67.5}
+        - {x: -21, y: 67.5}
+        - {x: -28, y: 58.5}
+        - {x: -28, y: -66.5}
+        - {x: 11, y: -66.5}
+        - {x: 11, y: -51.5}
+        - {x: 28, y: 15.5}
+        - {x: 28, y: 58.5}
+    - name: tst_72
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 2507
+        width: 109
+        height: 263
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: 66.5}
+        - {x: -27, y: -65.5}
+        - {x: 13, y: -65.5}
+        - {x: 28, y: 6.5}
+        - {x: 28, y: 66.5}
+    - name: tst_73
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 2508
+        width: 108
+        height: 261
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: 65.5}
+        - {x: -27, y: -65.5}
+        - {x: 12, y: -65.5}
+        - {x: 23, y: -54.5}
+        - {x: 28, y: -14.5}
+        - {x: 28, y: 65.5}
+    - name: tst_74
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 2509
+        width: 105
+        height: 262
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26.5, y: 66.5}
+        - {x: -26.5, y: -65.5}
+        - {x: 25.5, y: -65.5}
+        - {x: 26.5, y: -55.5}
+        - {x: 26.5, y: 66.5}
+    - name: tst_75
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 2511
+        width: 105
+        height: 264
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 24.5, y: 67}
+        - {x: -26.5, y: 67}
+        - {x: -26.5, y: -66}
+        - {x: 12.5, y: -66}
+        - {x: 15.5, y: -54}
+        - {x: 26.5, y: 18}
+        - {x: 26.5, y: 55}
+      - - {x: 23.5, y: -60}
+        - {x: 25.5, y: -62}
+        - {x: 26.5, y: -62}
+        - {x: 26.5, y: -51}
+        - {x: 23.5, y: -52}
+    - name: tst_76
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 2519
+        width: 113
+        height: 262
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.5, y: 66.5}
+        - {x: -28.5, y: 56.5}
+        - {x: -28.5, y: -65.5}
+        - {x: 17.5, y: -65.5}
+        - {x: 28.5, y: 15.5}
+        - {x: 28.5, y: 66.5}
+      - - {x: 25.5, y: -20.5}
+        - {x: 27.5, y: -22.5}
+        - {x: 28.5, y: -22.5}
+        - {x: 28.5, y: -14.5}
+        - {x: 25.5, y: -15.5}
+    - name: tst_77
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 2521
+        width: 109
+        height: 262
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.5, y: 66.5}
+        - {x: -27.5, y: 61.5}
+        - {x: -27.5, y: -65.5}
+        - {x: 11.5, y: -65.5}
+        - {x: 27.5, y: 27.5}
+        - {x: 27.5, y: 58.5}
+        - {x: 26.5, y: 66.5}
+    - name: tst_78
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 2522
+        width: 107
+        height: 260
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: 65}
+        - {x: -27, y: -65}
+        - {x: 13, y: -65}
+        - {x: 27, y: 13}
+        - {x: 27, y: 57}
+        - {x: 26, y: 65}
+    - name: tst_79
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 2523
+        width: 114
+        height: 260
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.5, y: 66}
+        - {x: -28.5, y: 54}
+        - {x: -28.5, y: -65}
+        - {x: 15.5, y: -65}
+        - {x: 28.5, y: -4}
+        - {x: 28.5, y: 61}
+        - {x: 27.5, y: 66}
+    - name: tst_81
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 2525
+        width: 107
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.5, y: 64.5}
+        - {x: -26.5, y: 60.5}
+        - {x: -26.5, y: -63.5}
+        - {x: 12.5, y: -63.5}
+        - {x: 27.5, y: -17.5}
+        - {x: 27.5, y: 64.5}
+    - name: tst_82
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 2525
+        width: 105
+        height: 260
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26.5, y: 66}
+        - {x: -26.5, y: -65}
+        - {x: 14.5, y: -65}
+        - {x: 26.5, y: -6}
+        - {x: 26.5, y: 65}
+        - {x: 25.5, y: 66}
+      - - {x: 23.5, y: -61}
+        - {x: 25.5, y: -63}
+        - {x: 26.5, y: -63}
+        - {x: 26.5, y: -51}
+        - {x: 23.5, y: -52}
+    - name: tst_83
+      rect:
+        serializedVersion: 2
+        x: 1201
+        y: 2530
+        width: 106
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.5, y: 64}
+        - {x: -26.5, y: 55}
+        - {x: -26.5, y: 35}
+        - {x: -24.5, y: 32}
+        - {x: -17.5, y: 26}
+        - {x: -26.5, y: -16}
+        - {x: -26.5, y: -27}
+        - {x: -21.5, y: -30}
+        - {x: -26.5, y: -50}
+        - {x: -26.5, y: -64}
+        - {x: 12.5, y: -64}
+        - {x: 27.5, y: 2}
+        - {x: 27.5, y: 64}
+    - name: tst_84
+      rect:
+        serializedVersion: 2
+        x: 1307
+        y: 2530
+        width: 110
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.5, y: 64}
+        - {x: -27.5, y: 57}
+        - {x: -27.5, y: -64}
+        - {x: 12.5, y: -64}
+        - {x: 28.5, y: -8}
+        - {x: 28.5, y: 59}
+        - {x: 23.5, y: 64}
+    - name: tst_86
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2234
+        width: 109
+        height: 268
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12.5, y: 67}
+        - {x: -27.5, y: 67}
+        - {x: -27.5, y: -67}
+        - {x: 11.5, y: -67}
+        - {x: 27.5, y: -12}
+        - {x: 27.5, y: 59}
+        - {x: 25.5, y: 63}
+    - name: tst_87
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 2245
+        width: 108
+        height: 262
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: 66.5}
+        - {x: -27, y: -65.5}
+        - {x: 12, y: -65.5}
+        - {x: 28, y: 15.5}
+        - {x: 28, y: 66.5}
+    - name: tst_88
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 2242
+        width: 112
+        height: 264
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 66}
+        - {x: -28, y: 48}
+        - {x: -28, y: -66}
+        - {x: 14, y: -66}
+        - {x: 29, y: 13}
+        - {x: 29, y: 60}
+        - {x: 24, y: 66}
+      - - {x: 26, y: -64}
+        - {x: 28, y: -65}
+        - {x: 29, y: -65}
+        - {x: 29, y: -54}
+        - {x: 26, y: -55}
+    - name: tst_89
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 2248
+        width: 106
+        height: 260
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26.5, y: 65}
+        - {x: -26.5, y: -65}
+        - {x: 17.5, y: -65}
+        - {x: 26.5, y: -24}
+        - {x: 26.5, y: 65}
+    - name: tst_90
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 2247
+        width: 106
+        height: 263
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 27.5, y: 29.5}
+        - {x: 27.5, y: 48.5}
+        - {x: 21.5, y: 66.5}
+        - {x: -18.5, y: 66.5}
+        - {x: -26.5, y: 57.5}
+        - {x: -26.5, y: -62.5}
+        - {x: -25.5, y: -65.5}
+        - {x: 14.5, y: -65.5}
+        - {x: 15.5, y: -55.5}
+        - {x: 23.5, y: 5.5}
+        - {x: 23.5, y: 11.5}
+    - name: tst_91
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 2255
+        width: 113
+        height: 265
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22.5, y: 67}
+        - {x: -23.5, y: 67}
+        - {x: -28.5, y: 64}
+        - {x: -28.5, y: -66}
+        - {x: 13.5, y: -66}
+        - {x: 28.5, y: 13}
+        - {x: 28.5, y: 56}
+        - {x: 27.5, y: 63}
+      - - {x: 25.5, y: -61}
+        - {x: 27.5, y: -63}
+        - {x: 28.5, y: -63}
+        - {x: 28.5, y: -52}
+        - {x: 25.5, y: -53}
+    - name: tst_92
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 2257
+        width: 105
+        height: 263
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26, y: 66.5}
+        - {x: -26, y: -65.5}
+        - {x: 13, y: -65.5}
+        - {x: 27, y: 15.5}
+        - {x: 27, y: 66.5}
+    - name: tst_93
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 2261
+        width: 111
+        height: 261
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25, y: 66}
+        - {x: -20, y: 66}
+        - {x: -28, y: 51}
+        - {x: -28, y: 46}
+        - {x: -27, y: 37}
+        - {x: -28, y: 1}
+        - {x: -28, y: -65}
+        - {x: 12, y: -65}
+        - {x: 28, y: 25}
+        - {x: 28, y: 65}
+    - name: tst_94
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 2260
+        width: 111
+        height: 262
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 26, y: 61.5}
+        - {x: 18, y: 65.5}
+        - {x: -28, y: 65.5}
+        - {x: -28, y: -65.5}
+        - {x: 10, y: -65.5}
+        - {x: 28, y: 29.5}
+        - {x: 28, y: 40.5}
+      - - {x: 25, y: -22.5}
+        - {x: 27, y: -24.5}
+        - {x: 28, y: -24.5}
+        - {x: 28, y: -15.5}
+        - {x: 25, y: -16.5}
+    - name: tst_95
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 2259
+        width: 106
+        height: 265
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22.5, y: 3}
+        - {x: 26.5, y: 25}
+        - {x: 26.5, y: 67}
+        - {x: -26.5, y: 67}
+        - {x: -26.5, y: -66}
+        - {x: 9.5, y: -66}
+        - {x: 11.5, y: -63}
+        - {x: 13.5, y: -56}
+        - {x: 9.5, y: -34}
+    - name: tst_97
+      rect:
+        serializedVersion: 2
+        x: 1093
+        y: 2262
+        width: 103
+        height: 265
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25.5, y: 66.5}
+        - {x: -25.5, y: -66.5}
+        - {x: 13.5, y: -66.5}
+        - {x: 26.5, y: -36.5}
+        - {x: 26.5, y: 66.5}
+    - name: tst_98
+      rect:
+        serializedVersion: 2
+        x: 1198
+        y: 2259
+        width: 108
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -67.5}
+        - {x: -1, y: -64.5}
+        - {x: -10, y: -64.5}
+        - {x: -11, y: -67.5}
+      - - {x: -18, y: 68.5}
+        - {x: -27, y: 58.5}
+        - {x: -27, y: -63.5}
+        - {x: 13, y: -63.5}
+        - {x: 27, y: -24.5}
+        - {x: 27, y: 68.5}
+    - name: tst_100
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1966
+        width: 111
+        height: 271
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: 68}
+        - {x: -28, y: 67}
+        - {x: -28, y: -68}
+        - {x: 14, y: -68}
+        - {x: 28, y: -20}
+        - {x: 28, y: 68}
+    - name: tst_101
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 1970
+        width: 108
+        height: 273
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25, y: 68.5}
+        - {x: -17, y: 68.5}
+        - {x: -27, y: 57.5}
+        - {x: -27, y: -64.5}
+        - {x: 10, y: -64.5}
+        - {x: 12, y: -50.5}
+        - {x: 27, y: 28.5}
+        - {x: 27, y: 61.5}
+    - name: tst_102
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 1980
+        width: 108
+        height: 267
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: 67}
+        - {x: -27, y: -67}
+        - {x: 27, y: -67}
+        - {x: 27, y: 67}
+    - name: tst_103
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 1983
+        width: 100
+        height: 265
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 21, y: 67}
+        - {x: -21, y: 67}
+        - {x: -25, y: 65}
+        - {x: -25, y: -62}
+        - {x: -24, y: -66}
+        - {x: 15, y: -66}
+        - {x: 16, y: -56}
+        - {x: 26, y: -9}
+        - {x: 26, y: 65}
+    - name: tst_104
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 1982
+        width: 113
+        height: 265
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 28.5, y: 26.5}
+        - {x: 28.5, y: 50.5}
+        - {x: 21.5, y: 66.5}
+        - {x: -17.5, y: 66.5}
+        - {x: -26.5, y: 61.5}
+        - {x: -28.5, y: 50.5}
+        - {x: -28.5, y: -66.5}
+        - {x: 17.5, y: -66.5}
+        - {x: 16.5, y: -36.5}
+        - {x: 27.5, y: 9.5}
+      - - {x: 25.5, y: -58.5}
+        - {x: 27.5, y: -59.5}
+        - {x: 28.5, y: -59.5}
+        - {x: 28.5, y: -50.5}
+        - {x: 25.5, y: -51.5}
+    - name: tst_105
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 1986
+        width: 104
+        height: 272
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 68}
+        - {x: -26, y: 60}
+        - {x: -26, y: -65}
+        - {x: 21, y: -65}
+        - {x: 27, y: -17}
+        - {x: 27, y: 68}
+    - name: tst_106
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 1991
+        width: 117
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.5, y: 68.5}
+        - {x: -28.5, y: 56.5}
+        - {x: -28.5, y: -64.5}
+        - {x: -18.5, y: -67.5}
+        - {x: 13.5, y: -67.5}
+        - {x: 29.5, y: 27.5}
+        - {x: 29.5, y: 64.5}
+        - {x: 19.5, y: 68.5}
+      - - {x: 26.5, y: -61.5}
+        - {x: 28.5, y: -63.5}
+        - {x: 29.5, y: -63.5}
+        - {x: 29.5, y: -51.5}
+        - {x: 26.5, y: -52.5}
+      - - {x: -28.5, y: 48.5}
+        - {x: -29.5, y: 48.5}
+        - {x: -29.5, y: 29.5}
+        - {x: -26.5, y: 29.5}
+        - {x: -25.5, y: 33.5}
+        - {x: -25.5, y: 43.5}
+        - {x: -26.5, y: 46.5}
+    - name: tst_107
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 1997
+        width: 107
+        height: 264
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 67}
+        - {x: -27, y: 53}
+        - {x: -27, y: -66}
+        - {x: 11, y: -66}
+        - {x: 27, y: 13}
+        - {x: 27, y: 64}
+        - {x: 17, y: 67}
+    - name: tst_108
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 1999
+        width: 109
+        height: 262
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: 66.5}
+        - {x: -27.5, y: 55.5}
+        - {x: -27.5, y: -65.5}
+        - {x: 10.5, y: -65.5}
+        - {x: 27.5, y: 24.5}
+        - {x: 27.5, y: 64.5}
+        - {x: 19.5, y: 66.5}
+    - name: tst_109
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 1999
+        width: 109
+        height: 261
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.5, y: 66}
+        - {x: -25.5, y: 63}
+        - {x: -27.5, y: 56}
+        - {x: -27.5, y: -65}
+        - {x: 14.5, y: -65}
+        - {x: 27.5, y: -7}
+        - {x: 27.5, y: 66}
+    - name: tst_110
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 2096
+        width: 100
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 62.5}
+        - {x: -25, y: 62.5}
+        - {x: -25, y: -62.5}
+        - {x: 4, y: -62.5}
+        - {x: 21, y: -42.5}
+        - {x: 25, y: -18.5}
+        - {x: 25, y: 21.5}
+      - - {x: 21, y: -62.5}
+        - {x: 25, y: -62.5}
+        - {x: 25, y: -56.5}
+        - {x: 22, y: -57.5}
+      - - {x: 22, y: 20.5}
+        - {x: 24, y: 19.5}
+        - {x: 25, y: 19.5}
+        - {x: 25, y: 30.5}
+        - {x: 22, y: 29.5}
+    - name: tst_111
+      rect:
+        serializedVersion: 2
+        x: 1093
+        y: 1999
+        width: 100
+        height: 261
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25, y: 66}
+        - {x: -25, y: -65}
+        - {x: 17, y: -65}
+        - {x: 26, y: -22}
+        - {x: 26, y: 66}
+    - name: tst_112
+      rect:
+        serializedVersion: 2
+        x: 1194
+        y: 2001
+        width: 108
+        height: 259
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 65.5}
+        - {x: -27, y: 58.5}
+        - {x: -27, y: -64.5}
+        - {x: 16, y: -64.5}
+        - {x: 27, y: -8.5}
+        - {x: 27, y: 65.5}
+    - name: tst_113
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 2006
+        width: 107
+        height: 261
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: 65.5}
+        - {x: -27, y: -65.5}
+        - {x: 11, y: -65.5}
+        - {x: 27, y: 19.5}
+        - {x: 27, y: 65.5}
+    - name: tst_115
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1700
+        width: 108
+        height: 266
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 23, y: 11.5}
+        - {x: 27, y: 24.5}
+        - {x: 27, y: 65.5}
+        - {x: 22, y: 66.5}
+        - {x: -22, y: 66.5}
+        - {x: -27, y: 61.5}
+        - {x: -27, y: -66.5}
+        - {x: 10, y: -66.5}
+        - {x: 11, y: -65.5}
+        - {x: 11, y: -43.5}
+        - {x: 21, y: 1.5}
+    - name: tst_116
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 1702
+        width: 107
+        height: 263
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.5, y: 66}
+        - {x: -26.5, y: 59}
+        - {x: -26.5, y: -66}
+        - {x: 18.5, y: -66}
+        - {x: 27.5, y: -28}
+        - {x: 27.5, y: 62}
+        - {x: 25.5, y: 66}
+    - name: tst_117
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 1714
+        width: 108
+        height: 268
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: 67}
+        - {x: -27, y: -33}
+        - {x: -17, y: -31}
+        - {x: -15, y: -26}
+        - {x: -15, y: -24}
+        - {x: -14, y: -26}
+        - {x: -17, y: -36}
+        - {x: -27, y: -52}
+        - {x: -27, y: -67}
+        - {x: 11, y: -67}
+        - {x: 27, y: -2}
+        - {x: 27, y: 67}
+    - name: tst_118
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 1713
+        width: 106
+        height: 269
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.5, y: 68}
+        - {x: -26.5, y: 65}
+        - {x: -26.5, y: -67}
+        - {x: 13.5, y: -67}
+        - {x: 27.5, y: 13}
+        - {x: 27.5, y: 68}
+    - name: tst_119
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 1714
+        width: 105
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26.5, y: 67.5}
+        - {x: -26.5, y: -67.5}
+        - {x: 13.5, y: -67.5}
+        - {x: 26.5, y: -37.5}
+        - {x: 26.5, y: 67.5}
+    - name: tst_120
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 1720
+        width: 106
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26.5, y: 65.5}
+        - {x: -26.5, y: -64.5}
+        - {x: -25.5, y: -67.5}
+        - {x: 23.5, y: -67.5}
+        - {x: 27.5, y: -49.5}
+        - {x: 27.5, y: 64.5}
+        - {x: 25.5, y: 65.5}
+    - name: tst_121
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 1722
+        width: 112
+        height: 271
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 68}
+        - {x: -28, y: 53}
+        - {x: -28, y: 46}
+        - {x: -24, y: 35}
+        - {x: -28, y: -2}
+        - {x: -28, y: -64}
+        - {x: 11, y: -64}
+        - {x: 29, y: 19}
+        - {x: 29, y: 68}
+    - name: tst_122
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 1733
+        width: 106
+        height: 264
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.5, y: 67}
+        - {x: -26.5, y: 53}
+        - {x: -26.5, y: -65}
+        - {x: 17.5, y: -65}
+        - {x: 27.5, y: 2}
+        - {x: 27.5, y: 67}
+    - name: tst_123
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 1736
+        width: 110
+        height: 264
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 24.5, y: 66}
+        - {x: -27.5, y: 66}
+        - {x: -27.5, y: -66}
+        - {x: 8.5, y: -66}
+        - {x: 9.5, y: -65}
+        - {x: 27.5, y: 13}
+        - {x: 27.5, y: 65}
+    - name: tst_124
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 1738
+        width: 106
+        height: 263
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.5, y: 66}
+        - {x: -26.5, y: 58}
+        - {x: -26.5, y: -66}
+        - {x: 17.5, y: -66}
+        - {x: 27.5, y: -23}
+        - {x: 27.5, y: 62}
+        - {x: 23.5, y: 66}
+    - name: tst_125
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 1741
+        width: 109
+        height: 260
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.5, y: 66}
+        - {x: -27.5, y: 54}
+        - {x: -27.5, y: -65}
+        - {x: 15.5, y: -65}
+        - {x: 27.5, y: 7}
+        - {x: 27.5, y: 66}
+    - name: tst_127
+      rect:
+        serializedVersion: 2
+        x: 1194
+        y: 1741
+        width: 105
+        height: 258
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26.5, y: 65.5}
+        - {x: -26.5, y: -64.5}
+        - {x: 12.5, y: -64.5}
+        - {x: 26.5, y: 2.5}
+        - {x: 26.5, y: 56.5}
+        - {x: 23.5, y: 65.5}
+    - name: tst_128
+      rect:
+        serializedVersion: 2
+        x: 1298
+        y: 1739
+        width: 104
+        height: 265
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26, y: 66}
+        - {x: -26, y: -66}
+        - {x: 23, y: -66}
+        - {x: 26, y: -22}
+        - {x: 26, y: 66}
+    - name: tst_129
+      rect:
+        serializedVersion: 2
+        x: 1403
+        y: 1743
+        width: 106
+        height: 264
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26.5, y: 67}
+        - {x: -26.5, y: -64}
+        - {x: 12.5, y: -64}
+        - {x: 27.5, y: 2}
+        - {x: 27.5, y: 67}
+    - name: tst_131
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1430
+        width: 109
+        height: 273
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19.5, y: 68.5}
+        - {x: -27.5, y: 68.5}
+        - {x: -27.5, y: -68.5}
+        - {x: 17.5, y: -68.5}
+        - {x: 27.5, y: -23.5}
+        - {x: 27.5, y: 63.5}
+    - name: tst_132
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 1454
+        width: 107
+        height: 259
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.5, y: 65}
+        - {x: -26.5, y: 58}
+        - {x: -26.5, y: -65}
+        - {x: 11.5, y: -65}
+        - {x: 27.5, y: -17}
+        - {x: 27.5, y: 61}
+        - {x: 25.5, y: 65}
+    - name: tst_133
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 1449
+        width: 110
+        height: 264
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.5, y: 67}
+        - {x: -27.5, y: 53}
+        - {x: -27.5, y: -27}
+        - {x: -16.5, y: -39}
+        - {x: -27.5, y: -56}
+        - {x: -27.5, y: -64}
+        - {x: -23.5, y: -66}
+        - {x: 20.5, y: -66}
+        - {x: 28.5, y: 3}
+        - {x: 28.5, y: 62}
+        - {x: 24.5, y: 67}
+    - name: tst_134
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 1457
+        width: 102
+        height: 265
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 26.5, y: 67}
+        - {x: -20.5, y: 67}
+        - {x: -25.5, y: 58}
+        - {x: -25.5, y: -66}
+        - {x: 15.5, y: -66}
+        - {x: 16.5, y: -54}
+        - {x: 25.5, y: 4}
+        - {x: 26.5, y: 8}
+    - name: tst_135
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 1453
+        width: 105
+        height: 260
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 66}
+        - {x: -24, y: 64}
+        - {x: -26, y: 57}
+        - {x: -26, y: -65}
+        - {x: 22, y: -65}
+        - {x: 27, y: -43}
+        - {x: 27, y: 66}
+    - name: tst_136
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 1455
+        width: 105
+        height: 265
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26.5, y: 67}
+        - {x: -26.5, y: -66}
+        - {x: 18.5, y: -66}
+        - {x: 26.5, y: -11}
+        - {x: 26.5, y: 60}
+        - {x: 24.5, y: 67}
+    - name: tst_137
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 1467
+        width: 114
+        height: 262
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: 66.5}
+        - {x: -27.5, y: 49.5}
+        - {x: -28.5, y: 47.5}
+        - {x: -28.5, y: -63.5}
+        - {x: -22.5, y: -65.5}
+        - {x: 29.5, y: -65.5}
+        - {x: 29.5, y: 66.5}
+      - - {x: -28.5, y: 29.5}
+        - {x: -25.5, y: 30.5}
+        - {x: -25.5, y: 37.5}
+        - {x: -27.5, y: 39.5}
+        - {x: -28.5, y: 39.5}
+    - name: tst_139
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 1474
+        width: 107
+        height: 260
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 65}
+        - {x: -27, y: 60}
+        - {x: -27, y: -65}
+        - {x: 18, y: -65}
+        - {x: 27, y: 2}
+        - {x: 27, y: 65}
+    - name: tst_140
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 1478
+        width: 113
+        height: 257
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 64.5}
+        - {x: -28, y: 48.5}
+        - {x: -28, y: 31.5}
+        - {x: -25, y: 32.5}
+        - {x: -28, y: 3.5}
+        - {x: -28, y: -24.5}
+        - {x: -27, y: -29.5}
+        - {x: -28, y: -58.5}
+        - {x: -28, y: -64.5}
+        - {x: 16, y: -64.5}
+        - {x: 29, y: -25.5}
+        - {x: 29, y: 64.5}
+    - name: tst_141
+      rect:
+        serializedVersion: 2
+        x: 1082
+        y: 1476
+        width: 106
+        height: 263
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.5, y: 66}
+        - {x: -26.5, y: 55}
+        - {x: -26.5, y: -66}
+        - {x: 13.5, y: -66}
+        - {x: 26.5, y: 6}
+        - {x: 26.5, y: 58}
+        - {x: 19.5, y: 66}
+    - name: tst_142
+      rect:
+        serializedVersion: 2
+        x: 1191
+        y: 1477
+        width: 103
+        height: 263
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.5, y: 66.5}
+        - {x: -25.5, y: 63.5}
+        - {x: -25.5, y: -65.5}
+        - {x: 14.5, y: -65.5}
+        - {x: 26.5, y: 8.5}
+        - {x: 26.5, y: 66.5}
+    - name: tst_143
+      rect:
+        serializedVersion: 2
+        x: 1295
+        y: 1477
+        width: 105
+        height: 264
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26, y: 67}
+        - {x: -26, y: -66}
+        - {x: 13, y: -66}
+        - {x: 27, y: 7}
+        - {x: 27, y: 56}
+        - {x: 22, y: 67}
+    - name: tst_145
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 1476
+        width: 109
+        height: 264
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13.5, y: 66}
+        - {x: -9.5, y: 66}
+        - {x: -18.5, y: 64}
+        - {x: -27.5, y: 58}
+        - {x: -27.5, y: -66}
+        - {x: 12.5, y: -66}
+        - {x: 25.5, y: 9}
+        - {x: 25.5, y: 49}
+        - {x: 21.5, y: 63}
+    - name: tst_147
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1169
+        width: 109
+        height: 261
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27.5, y: 66}
+        - {x: -27.5, y: -65}
+        - {x: 13.5, y: -65}
+        - {x: 27.5, y: -3}
+        - {x: 27.5, y: 64}
+        - {x: 26.5, y: 66}
+    - name: tst_148
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 1433
+        width: 103
+        height: 267
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.5, y: 67.5}
+        - {x: -25.5, y: 61.5}
+        - {x: -25.5, y: -66.5}
+        - {x: 26.5, y: -66.5}
+        - {x: 26.5, y: 67.5}
+    - name: tst_149
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 1186
+        width: 108
+        height: 265
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26, y: 66.5}
+        - {x: -27, y: 65.5}
+        - {x: -27, y: -66.5}
+        - {x: 16, y: -66.5}
+        - {x: 27, y: -14.5}
+        - {x: 27, y: 66.5}
+    - name: tst_150
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 1192
+        width: 109
+        height: 257
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 64.5}
+        - {x: -21, y: 60.5}
+        - {x: -27, y: 55.5}
+        - {x: -27, y: -64.5}
+        - {x: 16, y: -64.5}
+        - {x: 28, y: 4.5}
+        - {x: 28, y: 64.5}
+    - name: tst_151
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 1196
+        width: 106
+        height: 258
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26.5, y: 64.5}
+        - {x: -26.5, y: -64.5}
+        - {x: 13.5, y: -64.5}
+        - {x: 26.5, y: 6.5}
+        - {x: 26.5, y: 64.5}
+    - name: tst_152
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 1194
+        width: 106
+        height: 258
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26.5, y: 64.5}
+        - {x: -26.5, y: -64.5}
+        - {x: 11.5, y: -64.5}
+        - {x: 27.5, y: 24.5}
+        - {x: 27.5, y: 62.5}
+        - {x: 26.5, y: 64.5}
+    - name: tst_153
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 1195
+        width: 107
+        height: 258
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 65.5}
+        - {x: -27, y: 58.5}
+        - {x: -27, y: -64.5}
+        - {x: 21, y: -64.5}
+        - {x: 27, y: -26.5}
+        - {x: 27, y: 52.5}
+        - {x: 22, y: 65.5}
+    - name: tst_154
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 664
+        width: 104
+        height: 258
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26, y: 64.5}
+        - {x: -26, y: -62.5}
+        - {x: -25, y: -64.5}
+        - {x: 17, y: -64.5}
+        - {x: 26, y: -7.5}
+        - {x: 26, y: 54.5}
+        - {x: 23, y: 64.5}
+    - name: tst_155
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 1206
+        width: 113
+        height: 260
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28, y: 65}
+        - {x: -28, y: -65}
+        - {x: 13, y: -65}
+        - {x: 29, y: -3}
+        - {x: 29, y: 61}
+        - {x: 28, y: 65}
+    - name: tst_156
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 1214
+        width: 108
+        height: 262
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 65.5}
+        - {x: -27, y: 59.5}
+        - {x: -27, y: -65.5}
+        - {x: 14, y: -65.5}
+        - {x: 27, y: 1.5}
+        - {x: 27, y: 65.5}
+    - name: tst_158
+      rect:
+        serializedVersion: 2
+        x: 1082
+        y: 1213
+        width: 108
+        height: 264
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26, y: 67}
+        - {x: -27, y: 62}
+        - {x: -27, y: -66}
+        - {x: 14, y: -66}
+        - {x: 27, y: -32}
+        - {x: 27, y: 67}
+    - name: tst_159
+      rect:
+        serializedVersion: 2
+        x: 1187
+        y: 951
+        width: 106
+        height: 262
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22.5, y: 66.5}
+        - {x: -18.5, y: 66.5}
+        - {x: -26.5, y: 59.5}
+        - {x: -26.5, y: -65.5}
+        - {x: 17.5, y: -65.5}
+        - {x: 27.5, y: 8.5}
+        - {x: 27.5, y: 59.5}
+        - {x: 24.5, y: 65.5}
+    - name: tst_160
+      rect:
+        serializedVersion: 2
+        x: 1294
+        y: 1211
+        width: 104
+        height: 267
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26, y: 67.5}
+        - {x: -26, y: -66.5}
+        - {x: 22, y: -66.5}
+        - {x: 26, y: -38.5}
+        - {x: 26, y: 60.5}
+        - {x: 23, y: 67.5}
+    - name: tst_161
+      rect:
+        serializedVersion: 2
+        x: 1399
+        y: 1211
+        width: 107
+        height: 266
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26.5, y: 67.5}
+        - {x: -26.5, y: -66.5}
+        - {x: 15.5, y: -66.5}
+        - {x: 27.5, y: -33.5}
+        - {x: 27.5, y: 66.5}
+        - {x: 26.5, y: 67.5}
+    - name: tst_163
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 901
+        width: 109
+        height: 269
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.5, y: 68}
+        - {x: -27.5, y: 60}
+        - {x: -27.5, y: -67}
+        - {x: 17.5, y: -67}
+        - {x: 27.5, y: 6}
+        - {x: 27.5, y: 68}
+    - name: tst_164
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 1169
+        width: 106
+        height: 263
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.5, y: 66.5}
+        - {x: -26.5, y: 63.5}
+        - {x: -26.5, y: -65.5}
+        - {x: 16.5, y: -65.5}
+        - {x: 27.5, y: -14.5}
+        - {x: 27.5, y: 66.5}
+    - name: tst_165
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 373
+        width: 103
+        height: 266
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 67.5}
+        - {x: -26, y: 59.5}
+        - {x: -26, y: -59.5}
+        - {x: -25, y: -66.5}
+        - {x: 17, y: -66.5}
+        - {x: 26, y: -41.5}
+        - {x: 26, y: 67.5}
+    - name: tst_166
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 923
+        width: 109
+        height: 264
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.5, y: 67}
+        - {x: -27.5, y: 53}
+        - {x: -27.5, y: -66}
+        - {x: 12.5, y: -66}
+        - {x: 20.5, y: -41}
+        - {x: 27.5, y: 6}
+        - {x: 27.5, y: 67}
+    - name: tst_167
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 923
+        width: 104
+        height: 268
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26, y: 68}
+        - {x: -26, y: -67}
+        - {x: 14, y: -67}
+        - {x: 14, y: -65}
+        - {x: 27, y: -2}
+        - {x: 27, y: 68}
+    - name: tst_168
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 922
+        width: 107
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 67.5}
+        - {x: -27, y: 60.5}
+        - {x: -27, y: -66.5}
+        - {x: -21, y: -67.5}
+        - {x: 19, y: -67.5}
+        - {x: 27, y: -6.5}
+        - {x: 27, y: 67.5}
+    - name: tst_169
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 925
+        width: 107
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 27.5, y: 51.5}
+        - {x: 23.5, y: 66.5}
+        - {x: 17.5, y: 68.5}
+        - {x: -26.5, y: 68.5}
+        - {x: -26.5, y: -67.5}
+        - {x: 14.5, y: -67.5}
+        - {x: 13.5, y: -56.5}
+        - {x: 26.5, y: 4.5}
+        - {x: 27.5, y: 11.5}
+    - name: tst_171
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 686
+        width: 112
+        height: 259
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 65}
+        - {x: -28, y: 62}
+        - {x: -28, y: -65}
+        - {x: 9, y: -65}
+        - {x: 15, y: -58}
+        - {x: 29, y: 0}
+        - {x: 29, y: 65}
+      - - {x: 26, y: -22}
+        - {x: 28, y: -24}
+        - {x: 29, y: -24}
+        - {x: 29, y: -13}
+        - {x: 26, y: -14}
+    - name: tst_172
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 1209
+        width: 108
+        height: 266
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 67.5}
+        - {x: -27, y: 66.5}
+        - {x: -27, y: -66.5}
+        - {x: 17, y: -66.5}
+        - {x: 28, y: 17.5}
+        - {x: 28, y: 67.5}
+    - name: tst_174
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 428
+        width: 107
+        height: 260
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: 65}
+        - {x: -26.5, y: 51}
+        - {x: -26.5, y: 30}
+        - {x: -23.5, y: 31}
+        - {x: -23.5, y: 34}
+        - {x: -23.5, y: 32}
+        - {x: -26.5, y: 20}
+        - {x: -26.5, y: -63}
+        - {x: -24.5, y: -65}
+        - {x: 14.5, y: -65}
+        - {x: 27.5, y: -56}
+        - {x: 27.5, y: 65}
+    - name: tst_175
+      rect:
+        serializedVersion: 2
+        x: 1190
+        y: 1213
+        width: 102
+        height: 264
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25.5, y: 67}
+        - {x: -25.5, y: -66}
+        - {x: 16.5, y: -66}
+        - {x: 25.5, y: -28}
+        - {x: 25.5, y: 67}
+    - name: tst_176
+      rect:
+        serializedVersion: 2
+        x: 1293
+        y: 951
+        width: 105
+        height: 259
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 65.5}
+        - {x: -26, y: 62.5}
+        - {x: -26, y: -61.5}
+        - {x: -25, y: -64.5}
+        - {x: 16, y: -64.5}
+        - {x: 27, y: -0.5}
+        - {x: 27, y: 53.5}
+        - {x: 24, y: 65.5}
+    - name: tst_180
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 900
+        width: 107
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 67.5}
+        - {x: -25, y: 61.5}
+        - {x: -27, y: 56.5}
+        - {x: -27, y: -67.5}
+        - {x: 15, y: -67.5}
+        - {x: 27, y: -33.5}
+        - {x: 27, y: 67.5}
+    - name: tst_182
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 661
+        width: 106
+        height: 260
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.5, y: 66}
+        - {x: -26.5, y: 58}
+        - {x: -26.5, y: -65}
+        - {x: 15.5, y: -65}
+        - {x: 26.5, y: 9}
+        - {x: 26.5, y: 66}
+    - name: tst_185
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 928
+        width: 100
+        height: 266
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25, y: 66.5}
+        - {x: -25, y: -54.5}
+        - {x: -23, y: -66.5}
+        - {x: 19, y: -66.5}
+        - {x: 25, y: -9.5}
+        - {x: 25, y: 66.5}
+    - name: tst_186
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 663
+        width: 110
+        height: 262
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.5, y: 66.5}
+        - {x: -27.5, y: 57.5}
+        - {x: -27.5, y: -65.5}
+        - {x: 16.5, y: -65.5}
+        - {x: 27.5, y: 2.5}
+        - {x: 27.5, y: 66.5}
+      - - {x: 24.5, y: -55.5}
+        - {x: 24.5, y: -62.5}
+        - {x: 27.5, y: -65.5}
+        - {x: 28.5, y: -65.5}
+        - {x: 28.5, y: -52.5}
+        - {x: 27.5, y: -52.5}
+    - name: tst_187
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 935
+        width: 113
+        height: 273
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 29, y: 24}
+        - {x: 29, y: 69}
+        - {x: -28, y: 69}
+        - {x: -28, y: -63}
+        - {x: 9, y: -63}
+        - {x: 10, y: -61}
+        - {x: 11, y: -54}
+        - {x: 17, y: -2}
+    - name: tst_188
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 949
+        width: 109
+        height: 261
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 66}
+        - {x: -27, y: 60}
+        - {x: -27, y: -65}
+        - {x: 10, y: -65}
+        - {x: 28, y: 15}
+        - {x: 28, y: 66}
+    - name: tst_189
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 949
+        width: 108
+        height: 262
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: 66.5}
+        - {x: -27, y: -65.5}
+        - {x: 15, y: -65.5}
+        - {x: 27, y: -10.5}
+        - {x: 27, y: 62.5}
+        - {x: 26, y: 66.5}
+    - name: tst_190
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 948
+        width: 106
+        height: 264
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.5, y: 66}
+        - {x: -26.5, y: 57}
+        - {x: -26.5, y: -65}
+        - {x: -23.5, y: -66}
+        - {x: 14.5, y: -66}
+        - {x: 27.5, y: 10}
+        - {x: 27.5, y: 66}
+    - name: tst_191
+      rect:
+        serializedVersion: 2
+        x: 1077
+        y: 690
+        width: 110
+        height: 260
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.5, y: 65}
+        - {x: -27.5, y: 51}
+        - {x: -27.5, y: -65}
+        - {x: 13.5, y: -65}
+        - {x: 28.5, y: -57}
+        - {x: 28.5, y: 65}
+    - name: tst_192
+      rect:
+        serializedVersion: 2
+        x: 1292
+        y: 692
+        width: 104
+        height: 258
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25, y: 64.5}
+        - {x: -26, y: 62.5}
+        - {x: -26, y: -62.5}
+        - {x: -25, y: -64.5}
+        - {x: 21, y: -64.5}
+        - {x: 26, y: -30.5}
+        - {x: 26, y: 64.5}
+    - name: tst_193
+      rect:
+        serializedVersion: 2
+        x: 1401
+        y: 951
+        width: 100
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 63.5}
+        - {x: -25, y: 52.5}
+        - {x: -25, y: -62.5}
+        - {x: 15, y: -62.5}
+        - {x: 26, y: -14.5}
+        - {x: 26, y: 63.5}
+    - name: tst_195
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 634
+        width: 107
+        height: 266
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 66.5}
+        - {x: -27, y: 59.5}
+        - {x: -27, y: -66.5}
+        - {x: 15, y: -66.5}
+        - {x: 27, y: -12.5}
+        - {x: 27, y: 63.5}
+        - {x: 26, y: 66.5}
+    - name: tst_196
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 636
+        width: 108
+        height: 265
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: 66.5}
+        - {x: -27, y: -66.5}
+        - {x: 18, y: -66.5}
+        - {x: 28, y: -24.5}
+        - {x: 28, y: 66.5}
+    - name: tst_197
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 647
+        width: 106
+        height: 273
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26.5, y: 69}
+        - {x: -26.5, y: -62}
+        - {x: 13.5, y: -62}
+        - {x: 27.5, y: -21}
+        - {x: 27.5, y: 69}
+    - name: tst_198
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 401
+        width: 109
+        height: 259
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.5, y: 65.5}
+        - {x: -27.5, y: 55.5}
+        - {x: -27.5, y: 36.5}
+        - {x: -26.5, y: 33.5}
+        - {x: -27.5, y: 20.5}
+        - {x: -27.5, y: -64.5}
+        - {x: 11.5, y: -64.5}
+        - {x: 27.5, y: 4.5}
+        - {x: 27.5, y: 63.5}
+        - {x: 20.5, y: 65.5}
+      - - {x: 24.5, y: -64.5}
+        - {x: 27.5, y: -64.5}
+        - {x: 27.5, y: -54.5}
+        - {x: 24.5, y: -55.5}
+    - name: tst_199
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 663
+        width: 105
+        height: 261
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.5, y: 66}
+        - {x: -26.5, y: 56}
+        - {x: -26.5, y: -65}
+        - {x: 15.5, y: -65}
+        - {x: 26.5, y: -12}
+        - {x: 26.5, y: 63}
+        - {x: 22.5, y: 66}
+    - name: tst_202
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 670
+        width: 108
+        height: 260
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 65}
+        - {x: -27, y: 58}
+        - {x: -27, y: -65}
+        - {x: 12, y: -65}
+        - {x: 28, y: 12}
+        - {x: 28, y: 63}
+        - {x: 16, y: 65}
+    - name: tst_205
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 690
+        width: 106
+        height: 260
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: 65}
+        - {x: -18.5, y: 65}
+        - {x: -26.5, y: 56}
+        - {x: -26.5, y: -65}
+        - {x: 11.5, y: -65}
+        - {x: 12.5, y: -55}
+        - {x: 26.5, y: 9}
+        - {x: 26.5, y: 58}
+    - name: tst_207
+      rect:
+        serializedVersion: 2
+        x: 1187
+        y: 692
+        width: 103
+        height: 258
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.5, y: 64.5}
+        - {x: -25.5, y: 55.5}
+        - {x: -25.5, y: -64.5}
+        - {x: 18.5, y: -64.5}
+        - {x: 26.5, y: -32.5}
+        - {x: 26.5, y: 55.5}
+        - {x: 21.5, y: 64.5}
+    - name: tst_209
+      rect:
+        serializedVersion: 2
+        x: 1395
+        y: 695
+        width: 118
+        height: 257
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: 65}
+        - {x: -20.5, y: 65}
+        - {x: -23.5, y: 64}
+        - {x: -28.5, y: 52}
+        - {x: -28.5, y: -64}
+        - {x: 12.5, y: -64}
+        - {x: 18.5, y: -27}
+        - {x: 30.5, y: 11}
+        - {x: 30.5, y: 56}
+      - - {x: -29.5, y: 46}
+        - {x: -29.5, y: 31}
+        - {x: -26.5, y: 31}
+        - {x: -25.5, y: 35}
+        - {x: -25.5, y: 43}
+        - {x: -27.5, y: 46}
+    - name: tst_212
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 371
+        width: 107
+        height: 262
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: 66.5}
+        - {x: -27, y: -65.5}
+        - {x: 13, y: -65.5}
+        - {x: 27, y: -2.5}
+        - {x: 27, y: 60.5}
+        - {x: 25, y: 66.5}
+    - name: tst_213
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 374
+        width: 107
+        height: 263
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25, y: 66}
+        - {x: -27, y: 65}
+        - {x: -27, y: -66}
+        - {x: 19, y: -66}
+        - {x: 27, y: -8}
+        - {x: 27, y: 60}
+        - {x: 22, y: 66}
+    - name: tst_216
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 401
+        width: 106
+        height: 262
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 24.5, y: 66.5}
+        - {x: -26.5, y: 66.5}
+        - {x: -26.5, y: -65.5}
+        - {x: 12.5, y: -65.5}
+        - {x: 24.5, y: 5.5}
+        - {x: 27.5, y: 21.5}
+        - {x: 27.5, y: 65.5}
+    - name: tst_217
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 398
+        width: 103
+        height: 264
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26, y: 66}
+        - {x: -26, y: -66}
+        - {x: 14, y: -66}
+        - {x: 26, y: 4}
+        - {x: 26, y: 66}
+    - name: tst_218
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 401
+        width: 108
+        height: 263
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 66.5}
+        - {x: -27, y: 62.5}
+        - {x: -27, y: -65.5}
+        - {x: 21, y: -65.5}
+        - {x: 28, y: -9.5}
+        - {x: 28, y: 66.5}
+      - - {x: 25, y: -62.5}
+        - {x: 27, y: -64.5}
+        - {x: 28, y: -64.5}
+        - {x: 28, y: -53.5}
+        - {x: 25, y: -54.5}
+    - name: tst_219
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 404
+        width: 109
+        height: 260
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 28, y: 65}
+        - {x: -27, y: 65}
+        - {x: -27, y: -65}
+        - {x: 12, y: -65}
+        - {x: 21, y: -36}
+        - {x: 28, y: 8}
+    - name: tst_221
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 427
+        width: 110
+        height: 257
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.5, y: 65}
+        - {x: -27.5, y: 62}
+        - {x: -27.5, y: -64}
+        - {x: 10.5, y: -64}
+        - {x: 27.5, y: 7}
+        - {x: 27.5, y: 65}
+    - name: tst_223
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 429
+        width: 108
+        height: 261
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18, y: 66}
+        - {x: -27, y: 66}
+        - {x: -27, y: -65}
+        - {x: 12, y: -65}
+        - {x: 27, y: -12}
+        - {x: 27, y: 61}
+        - {x: 25, y: 65}
+    - name: tst_224
+      rect:
+        serializedVersion: 2
+        x: 1187
+        y: 431
+        width: 100
+        height: 260
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25, y: 66}
+        - {x: -25, y: -65}
+        - {x: 15, y: -65}
+        - {x: 26, y: -56}
+        - {x: 26, y: 66}
+    - name: tst_225
+      rect:
+        serializedVersion: 2
+        x: 1291
+        y: 431
+        width: 106
+        height: 260
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.5, y: 66}
+        - {x: -22.5, y: 63}
+        - {x: -15.5, y: 63}
+        - {x: -17.5, y: 63}
+        - {x: -22.5, y: 57}
+        - {x: -26.5, y: 50}
+        - {x: -26.5, y: -65}
+        - {x: 18.5, y: -65}
+        - {x: 27.5, y: 5}
+        - {x: 27.5, y: 46}
+        - {x: 20.5, y: 66}
+    - name: tst_226
+      rect:
+        serializedVersion: 2
+        x: 1401
+        y: 431
+        width: 103
+        height: 258
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 26.5, y: 58.5}
+        - {x: 25.5, y: 64.5}
+        - {x: 22.5, y: 65.5}
+        - {x: -21.5, y: 65.5}
+        - {x: -25.5, y: 58.5}
+        - {x: -25.5, y: -64.5}
+        - {x: 11.5, y: -64.5}
+        - {x: 12.5, y: -62.5}
+        - {x: 11.5, y: -43.5}
+        - {x: 26.5, y: 8.5}
+    - name: tst_227
+      rect:
+        serializedVersion: 2
+        x: 1504
+        y: 433
+        width: 112
+        height: 261
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 66}
+        - {x: -28, y: 59}
+        - {x: -28, y: -65}
+        - {x: 16, y: -65}
+        - {x: 19, y: -64}
+        - {x: 28, y: 3}
+        - {x: 28, y: 66}
+    - name: tst_229
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 103
+        width: 105
+        height: 267
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.5, y: 67.5}
+        - {x: -26.5, y: 59.5}
+        - {x: -26.5, y: -66.5}
+        - {x: 9.5, y: -66.5}
+        - {x: 16.5, y: -64.5}
+        - {x: 26.5, y: 7.5}
+        - {x: 26.5, y: 55.5}
+        - {x: 24.5, y: 67.5}
+    - name: tst_230
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 104
+        width: 107
+        height: 269
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 67.5}
+        - {x: -27, y: 53.5}
+        - {x: -27, y: -67.5}
+        - {x: 10, y: -67.5}
+        - {x: 15, y: -66.5}
+        - {x: 27, y: -17.5}
+        - {x: 27, y: 67.5}
+    - name: tst_231
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 104
+        width: 108
+        height: 263
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: 66}
+        - {x: -27, y: -66}
+        - {x: 20, y: -66}
+        - {x: 28, y: -20}
+        - {x: 28, y: 66}
+      - - {x: 25, y: -50}
+        - {x: 27, y: -52}
+        - {x: 28, y: -52}
+        - {x: 28, y: -40}
+        - {x: 25, y: -41}
+    - name: tst_232
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 127
+        width: 107
+        height: 267
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 27, y: 67.5}
+        - {x: -19, y: 67.5}
+        - {x: -27, y: 58.5}
+        - {x: -27, y: -64.5}
+        - {x: 13, y: -64.5}
+        - {x: 19, y: 9.5}
+        - {x: 19, y: 14.5}
+        - {x: 27, y: 28.5}
+    - name: tst_233
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 127
+        width: 107
+        height: 267
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26.5, y: 67.5}
+        - {x: -26.5, y: -64.5}
+        - {x: 15.5, y: -64.5}
+        - {x: 27.5, y: 19.5}
+        - {x: 27.5, y: 67.5}
+    - name: tst_234
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 131
+        width: 107
+        height: 269
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17.5, y: 68}
+        - {x: -23.5, y: 68}
+        - {x: -26.5, y: 51}
+        - {x: -26.5, y: -66}
+        - {x: -24.5, y: -67}
+        - {x: 16.5, y: -67}
+        - {x: 27.5, y: 19}
+        - {x: 27.5, y: 55}
+        - {x: 23.5, y: 64}
+    - name: tst_235
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 135
+        width: 107
+        height: 264
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26.5, y: 67}
+        - {x: -26.5, y: -66}
+        - {x: 17.5, y: -66}
+        - {x: 27.5, y: 3}
+        - {x: 27.5, y: 67}
+    - name: tst_236
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 140
+        width: 109
+        height: 262
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: 65.5}
+        - {x: -27, y: -65.5}
+        - {x: 15, y: -65.5}
+        - {x: 28, y: 10.5}
+        - {x: 28, y: 64.5}
+        - {x: 27, y: 65.5}
+    - name: tst_237
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 161
+        width: 106
+        height: 263
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18.5, y: 11.5}
+        - {x: 26.5, y: 21.5}
+        - {x: 26.5, y: 66.5}
+        - {x: -13.5, y: 66.5}
+        - {x: -18.5, y: 60.5}
+        - {x: -23.5, y: 48.5}
+        - {x: -26.5, y: 35.5}
+        - {x: -26.5, y: -65.5}
+        - {x: 11.5, y: -65.5}
+        - {x: 11.5, y: -64.5}
+        - {x: 13.5, y: -56.5}
+        - {x: 19.5, y: 0.5}
+    - name: tst_238
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 164
+        width: 114
+        height: 262
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 29.5, y: 52.5}
+        - {x: 27.5, y: 63.5}
+        - {x: 22.5, y: 65.5}
+        - {x: -16.5, y: 65.5}
+        - {x: -28.5, y: 52.5}
+        - {x: -28.5, y: 26.5}
+        - {x: -25.5, y: 27.5}
+        - {x: -23.5, y: 32.5}
+        - {x: -23.5, y: 34.5}
+        - {x: -23.5, y: 32.5}
+        - {x: -28.5, y: 10.5}
+        - {x: -28.5, y: -55.5}
+        - {x: -24.5, y: -64.5}
+        - {x: -23.5, y: -65.5}
+        - {x: 11.5, y: -65.5}
+        - {x: 13.5, y: -63.5}
+        - {x: 15.5, y: -55.5}
+        - {x: 29.5, y: 17.5}
+    - name: tst_239
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 163
+        width: 111
+        height: 261
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 23.5, y: 55}
+        - {x: 21.5, y: 66}
+        - {x: -27.5, y: 66}
+        - {x: -27.5, y: -65}
+        - {x: 14.5, y: -65}
+        - {x: 28.5, y: 22}
+        - {x: 28.5, y: 52}
+        - {x: 25.5, y: 51}
+    - name: tst_240
+      rect:
+        serializedVersion: 2
+        x: 1190
+        y: 163
+        width: 103
+        height: 265
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 23, y: 67}
+        - {x: -26, y: 67}
+        - {x: -26, y: -65}
+        - {x: -25, y: -66}
+        - {x: 10, y: -66}
+        - {x: 14, y: -56}
+        - {x: 26, y: 20}
+        - {x: 26, y: 60}
+    - name: tst_241
+      rect:
+        serializedVersion: 2
+        x: 1292
+        y: 167
+        width: 106
+        height: 261
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.5, y: 66}
+        - {x: -26.5, y: 59}
+        - {x: -26.5, y: -65}
+        - {x: 12.5, y: -65}
+        - {x: 26.5, y: -6}
+        - {x: 26.5, y: 61}
+        - {x: 24.5, y: 66}
+    - name: tst_242
+      rect:
+        serializedVersion: 2
+        x: 1396
+        y: 165
+        width: 107
+        height: 266
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: 67.5}
+        - {x: -27, y: -66.5}
+        - {x: 22, y: -66.5}
+        - {x: 27, y: -28.5}
+        - {x: 27, y: 67.5}
+    - name: tst_243
+      rect:
+        serializedVersion: 2
+        x: 1503
+        y: 169
+        width: 112
+        height: 265
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 29, y: 67}
+        - {x: -15, y: 67}
+        - {x: -28, y: 61}
+        - {x: -28, y: -65}
+        - {x: 10, y: -65}
+        - {x: 11, y: -63}
+        - {x: 11, y: -52}
+        - {x: 29, y: 12}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
